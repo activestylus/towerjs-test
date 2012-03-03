@@ -1,0 +1,3 @@
+Wordup.SiteHelper =
+  siteElements: ->
+    $(".sites")
